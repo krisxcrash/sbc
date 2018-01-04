@@ -1,2 +1,3 @@
 # sbc
-Barber Website
+
+A single page web application for the SBC barber.
