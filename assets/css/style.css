@@ -1,0 +1,25 @@
+/* body {
+    padding-top: 60px;
+} */
+
+.container-fluid {
+    padding: 60px 0;
+}
+
+/* Jumbotron */
+
+/* Section A */
+
+.a-div {
+    height: 450px;
+}
+
+#a1 {
+    background: black;
+}
+#a2 {
+    background: blue;
+}
+#a3 {
+    background: yellowgreen;
+}
