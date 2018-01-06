@@ -9,7 +9,7 @@
 /* Jumbotron */
 
 .jumbotron-fluid {
-    padding: 15%;
+    padding: 20%;
     margin-bottom: 0;
     text-align: center;
 }
@@ -34,7 +34,9 @@
 
 /* Section C */
 
-.c-jumbo {
+/* Section D */
+
+.d-jumbo {
     background: url('https://placehold.it/1500x400');
     width: 100%;
     height: 500px;
