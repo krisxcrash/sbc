@@ -1,3 +1,3 @@
 # sbc
 
-A single page web application for the SBC barber.
+A single page web application to practice front end techniques.
