@@ -45,15 +45,21 @@
 
 /* Section C */
 .c-about {
-    margin: 0 auto;
+    margin: 25px 50px;
+    align-content: center;
 }
 
 .div-c {
-    padding: 35px;
+    padding: 0 35px;
 }
 
 .img-c {
-    float: left;
+    padding-left: 75px;
+}
+
+.div-c-2 {
+    padding: 25px 0;
+    margin-top: 10px;
 }
 
 /* Section D */
