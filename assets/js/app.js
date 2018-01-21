@@ -26,3 +26,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
     var el = document.getElementById('fortune-cookie');
         el.textContent = rand;
     });
+
+
+

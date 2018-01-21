@@ -42,7 +42,19 @@
 
 /* Section B */
 
+
 /* Section C */
+.c-about {
+    margin: 0 auto;
+}
+
+.div-c {
+    padding: 35px;
+}
+
+.img-c {
+    float: left;
+}
 
 /* Section D */
 
