@@ -62,6 +62,14 @@
     margin-top: 10px;
 }
 
+.c-h6-a,
+.c-h6-a:hover,
+.c-h6-a:active,
+.c-h6-a:focus {
+    text-decoration: none;
+}
+
+
 /* Section D */
 
 .d-jumbo {
